@@ -16,3 +16,11 @@ chmod
 chown
 grep
 find
+
+
+Linux File Permissions
+
+chmod 777 file.txt
+chmod 755 script.sh
+chmod 644 notes.txt
+chown user:user file.txt

@@ -4,5 +4,18 @@ git init
 git status
 git add
 git commit
+<<<<<<< HEAD
+git push
+git pull
+=======
+>>>>>>> feature-git
+
+
+Git Basics
+
+git init
+git status
+git add
+git commit
 git push
 git pull
